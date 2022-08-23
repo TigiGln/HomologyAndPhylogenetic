@@ -1,0 +1,55 @@
+===============================================
+Project Python M1 DLAD Aix Marseille Université
+===============================================
+GALLIANO Thierry Student M1 DLAD
+BRUNET Théo Student M1 DLAD
+===============================================
+
+DESCRIPTION:
+This program is used to create cluster of homologous proteins and make a phylogenetic tree with this cluster.
+
+It use 4 other programs:
+1- diamond v2.0.4.142 (C) Max Planck Society for the Advancement of Science (witch is an alternative faster than Ncbi blast)
+2- MUSCLE v3.8.31 by Robert C. Edgar
+3- GBLOCKS 0.91b
+4- PhyML version 3.1 (PhyML 20120412)
+
+The executable of this program are in the directory 'subpart'
+
+and the followinf libraries:
+1- Tkinter
+2- Biopython (SeqIO and Phylo)
+3- sys
+4- PIL
+5- webbrowser
+6- os
+7- collections (defaultdict)
+8- matplotlib
+9- plotnine
+10- time
+ 
+There is five step in this program:
+1- The creation of the diamonds database 
+2- The bidirectionnal blast
+3- The creation of clusters
+4- The alignment with muscle
+5- The curation with Gblocks
+6- The creation of the tree with phyml
+
+DEPENDENCY:
+
+Except the libraries python (tkinter, biopython and matplotlib) you don't need to install anything for this program to work.
+
+REFERENCES:
+
+1- Edgar, Robert C. (2004), MUSCLE: multiple sequence alignment with high accuracy and high throughput, Nucleic Acids Research 32(5), 1792-97.
+2- D. Huson, “Fast and sensitive protein alignment using DIAMOND”, Nature Methods 12, 59-60 (2015)
+3- Castresana, J. (2000). Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.Molecular Biology and Evolution17, 540-552.
+4- Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek Wilczynski, Michiel J. L. de Hoon, Biopython: freely available Python tools for computational molecular biology and bioinformatics, Bioinformatics, Volume 25, Issue 11, 1 June 2009, Pages 1422–1423, https://doi.org/10.1093/bioinformatics/btp163 
+5- 
+
+
+
+
+
+

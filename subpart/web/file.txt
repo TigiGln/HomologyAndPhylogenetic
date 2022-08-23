@@ -1,0 +1,290 @@
+UP000288024	2499688	None	bacteria	5402	0	5411	Bacillus taxi
+UP000265801	2315464	None	bacteria	4589	0	4589	Bacillus salacetis
+UP000204502	1776293	None	viruses	231	0	238	Bacillus phage Eldridge
+UP000040576	35841	None	bacteria	3440	0	6864	Bacillus thermoamylovorans
+UP000036953	1679169	None	bacteria	3770	0	3781	Bacillus sp. FJAT-27916
+UP000031093	1445809	None	viruses	76	0	76	Bacillus phage vB_BtS_BMBtp3
+UP000248066	2045244	None	bacteria	3874	0	3874	Bacillus lacisalsi
+UP000285363	2419621	None	viruses	66	0	66	Bacillus phage vB_BpsS-140
+UP000000606	279010	BACLD	bacteria	4164	0	4744	Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46)
+UP000223801	1868825	None	viruses	30	0	30	Bacillus phage vB_BtS_BMBtp13
+UP000002379	513550	None	viruses	31	0	31	Bacillus virus AP50
+UP000275076	284579	None	bacteria	6761	0	6778	Bacillus salarius
+UP000275945	2419622	None	viruses	67	0	68	Bacillus phage vB_BpsS-36
+UP000221139	1868600	None	viruses	81	0	81	Bacillus phage PfIS075
+UP000198553	930146	None	bacteria	4551	0	4555	Bacillus persicus
+UP000202560	1852564	None	viruses	293	0	295	Bacillus phage Belinda
+UP000214715	1497851	None	viruses	34	0	34	Bacillus phage SPG24
+UP000223773	1815973	None	viruses	74	0	74	Bacillus phage Leo2
+UP000008338	10717	BPPH1	viruses	51	0	51	Bacillus phage phi105 (Bacteriophage phi-105)
+UP000223352	1909400	None	viruses	41	0	41	Bacillus phage QCM11
+UP000092673	1743146	None	bacteria	3515	0	3518	Bacillus sp. FJAT-27986
+UP000204592	1775140	None	viruses	66	0	67	Bacillus phage vB_BhaS-171
+UP000321555	1742359	None	bacteria	4401	0	4406	Bacillus sp. FJAT-25496
+UP000027384	1510440	None	viruses	72	0	72	Bacillus phage Waukesha92
+UP000001168	66692	BACSK	bacteria	4082	0	4087	Bacillus clausii (strain KSM-K16)
+UP000017648	1406785	None	viruses	241	0	252	Bacillus phage Grass
+UP000006315	1131731	None	bacteria	4207	0	4226	Bacillus azotoformans LMG 9581
+UP000036921	1581033	None	bacteria	4788	0	4789	Bacillus sp. FJAT-21945
+UP000036353	1479	None	bacteria	3481	0	3619	Bacillus smithii
+UP000027142	1246626	None	bacteria	4016	0	4017	Bacillus lehensis G1
+UP000028549	246786	BACID	bacteria	3781	0	3781	Bacillus indicus
+UP000005445	764595	None	viruses	274	0	274	Bacillus phage W.Ph.
+UP000015091	1296654	None	viruses	138	0	138	Bacillus phage Basilisk
+UP000033015	1610832	None	viruses	110	0	110	Bacillus phage Stahl
+UP000278746	2483800	None	bacteria	3944	0	3944	Bacillus sp. KQ-3
+UP000235352	2029108	None	bacteria	5279	0	5279	Bacillus sp. UMB0899
+UP000006316	1117379	None	bacteria	5206	0	5207	Bacillus bataviensis LMG 21833
+UP000002340	552525	None	viruses	86	0	86	Bacillus virus IEBH
+UP000289624	2500808	None	viruses	49	0	49	Bacillus phage DK1
+UP000203986	1643324	None	viruses	56	0	56	Bacillus phage phi4B1
+UP000030206	1540090	None	viruses	222	0	241	Bacillus phage Mater
+UP000199133	1882761	None	bacteria	5056	0	5058	Bacillus sp. OK048
+UP000326021	2601656	None	viruses	87	0	87	Bacillus phage 031MP002
+UP000271896	2483609	None	viruses	56	0	56	Bacillus phage AP631
+UP000361147	2662127	None	viruses	26	0	26	Bacillus phage vB_Bpu_PumA1
+UP000255753	2282402	None	viruses	208	0	208	Bacillus phage Saddex
+UP000204107	1567487	None	viruses	56	0	102	Bacillus phage BalMu-1
+UP000222959	1675599	None	viruses	66	0	66	Bacillus phage Silence
+UP000060713	1705566	None	bacteria	4632	0	4637	Bacillus sp. FJAT-18017
+UP000019504	1450694	None	bacteria	4084	0	4085	Bacillus sp. TS-2
+UP000234748	673318	None	bacteria	4462	0	4463	Bacillus deserti
+UP000001585	294382	None	viruses	58	0	58	Bacillus phage BCJA1c
+UP000034166	1408103	None	bacteria	4713	0	4758	Bacillus campisalis
+UP000202618	1815509	None	viruses	291	0	291	Bacillus phage AR9
+UP000031100	1565991	None	bacteria	2943	0	2984	Bacillus sp. X1(2014)
+UP000343370	2663324	None	viruses	75	0	75	Bacillus phage vB_BcM_Sam112
+UP000260425	2283013	None	viruses	254	0	254	Bacillus phage BSP38
+UP000262827	2039884	None	viruses	239	0	239	Bacillus phage BC01
+UP000006298	1136534	None	viruses	140	0	140	Bacillus phage BCD7
+UP000001590	10685	BPSP1	viruses	204	0	204	Bacillus phage SP01 (Bacteriophage SP01)
+UP000199087	1499688	None	bacteria	5269	0	5277	Bacillus sp. LF1
+UP000221795	1933063	None	viruses	236	0	246	Bacillus phage vB_BsuM-Goe3
+UP000204264	1874001	None	viruses	46	0	46	Bacillus phage Claudi
+UP000001524	565140	None	viruses	56	0	56	Bacillus phage TP21-L
+UP000201988	1874002	None	viruses	36	0	36	Bacillus phage Stitch
+UP000002100	359961	None	viruses	53	0	53	Bacillus virus Wbeta
+UP000051888	157838	None	bacteria	4690	0	4727	Bacillus shackletonii
+UP000222741	1983465	None	viruses	285	0	288	Bacillus phage Flapjack
+UP000018895	1236971	None	bacteria	4345	0	4345	Bacillus hemicellulosilyticus JCM 9152
+UP000222204	1983461	None	viruses	30	0	30	Bacillus phage BeachBum
+UP000308230	2574798	None	bacteria	4545	0	4547	Bacillus sp. HB172195
+UP000074108	1150625	None	bacteria	3184	0	3184	Bacillus coahuilensis p1.1.43
+UP000030208	1540092	None	viruses	50	0	50	Bacillus phage Pascal
+UP000019372	1460639	None	bacteria	4678	0	4678	Bacillus sp. JCM 19045
+UP000295689	279826	None	bacteria	5324	0	5324	Bacillus foraminis
+UP000182481	1914540	None	bacteria	4972	0	4972	Bacillus obstructivus
+UP000319957	2589663	None	viruses	297	0	300	Bacillus phage Beyonphe
+UP000225963	1985178	None	viruses	248	0	266	Bacillus virus BM15
+UP000028664	1527469	None	viruses	243	0	243	Bacillus phage Bobb
+UP000017659	1406789	None	viruses	48	0	48	Bacillus phage Pony
+UP000324715	2601669	None	viruses	284	0	285	Bacillus phage Chotacabras
+UP000001533	347962	None	viruses	53	0	101	Bacillus phage Gamma
+UP000017645	1406782	None	viruses	78	0	79	Bacillus virus Blastoid
+UP000199578	1761761	None	bacteria	3914	0	3915	Bacillus sp. cl95
+UP000325781	2601662	None	viruses	87	0	87	Bacillus phage 055SW001
+UP000326671	2036016	None	bacteria	5193	0	5195	Bacillus endozanthoxylicus
+UP000235118	2054168	None	bacteria	4582	0	4582	Bacillus sp. T33-2
+UP000002299	396034	None	viruses	54	0	54	Bacillus virus 1
+UP000233343	549687	None	bacteria	5301	0	5301	Bacillus horneckiae
+UP000315711	688079	None	bacteria	3479	0	3481	Bacillus nanhaiisediminis
+UP000002200	203267	TROWT	bacteria	805	0	808	Tropheryma whipplei (strain Twist) (Whipple's bacillus)
+UP000037908	1643452	None	bacteria	3740	0	3740	Bacillus sp. CHD6a
+UP000220085	2033491	None	bacteria	4515	0	4516	Bacillus sp. AFS018417
+UP000226338	1868824	None	viruses	59	0	59	Bacillus phage BMBtpLA3
+UP000006285	57477	None	viruses	273	0	273	Bacillus phage Bastille
+UP000014701	207656	None	viruses	211	0	211	Bacillus phage phiNIT1
+UP000007858	1124578	None	viruses	51	0	51	Bacillus phage phIS3501
+UP000027602	796606	BACMM	bacteria	3271	0	3277	Bacillus methanolicus (strain MGA3 / ATCC 53907)
+UP000033000	1498212	None	viruses	201	0	201	Bacillus phage JBP901
+UP000030207	1540091	None	viruses	231	0	237	Bacillus phage Moonbeam
+UP000215224	33932	None	bacteria	4687	0	4702	Bacillus cohnii
+UP000053681	1414648	None	bacteria	3896	0	3903	Bacillus sp. SGD-V-76
+UP000325623	2601652	None	viruses	90	0	90	Bacillus phage 000TH010
+UP000030588	363870	None	bacteria	2914	0	2916	Bacillus ginsengihumi
+UP000216410	2022547	None	bacteria	4463	0	4463	Bacillus sp. 7504-2
+UP000225442	2033499	None	bacteria	5980	0	5981	Bacillus sp. AFS037270
+UP000224784	1739968	None	viruses	318	0	318	Bacillus phage vB_BpuM-BpSp
+UP000011291	1273742	None	viruses	76	0	77	Bacillus virus Finn
+UP000223716	1909403	None	viruses	273	0	288	Bacillus phage QCM8
+UP000037405	189381	None	bacteria	4143	0	4481	Bacillus marisflavi
+UP000075350	1811976	None	bacteria	3616	0	3617	[Bacillus] sp. KCTC 13219
+UP000001401	649639	BACCJ	bacteria	4253	0	4268	Bacillus cellulosilyticus (strain ATCC 21833 / DSM 2522 / FERM P-1141 / JCM 9156 / N-4)
+UP000222484	1868601	None	viruses	80	0	80	Bacillus phage PfNC7401
+UP000235260	2053044	None	bacteria	4122	0	4123	Bacillus sp. V5-8f
+UP000249134	1467	BACLE	bacteria	4072	0	4072	Bacillus lentus
+UP000001258	272558	BACHD	bacteria	4006	0	4066	Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)
+UP000002754	1218173	None	bacteria	3743	0	3745	Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604
+UP000242662	1464122	None	bacteria	2581	0	2581	Bacillus lonarensis
+UP000202492	1357713	None	viruses	56	0	56	Bacillus phage phiCM3
+UP000233375	115979	None	bacteria	4253	0	4253	Bacillus nealsonii
+UP000327075	2593661	None	viruses	49	0	49	Bacillus phage vB_BthS-HD29phi
+UP000275028	2419618	None	viruses	80	0	80	Bacillus phage vB_BboS-125
+UP000000271	439292	BACIE	bacteria	3231	0	3255	Bacillus selenitireducens (strain ATCC 700615 / DSM 15326 / MLS10)
+UP000002550	236750	BP35C	viruses	32	0	32	Bacillus phage Bam35c (Bacillus thuringiensis bacteriophage Bam35c)
+UP000326637	2601663	None	viruses	82	0	83	Bacillus phage 056SW001B
+UP000037109	1459	SPOGL	bacteria	5125	0	5147	Sporosarcina globispora (Bacillus globisporus)
+UP000033014	1129192	None	viruses	220	0	220	Bacillus phage BCP8-2
+UP000262714	2094736	None	viruses	115	0	115	Bacillus phage v_B-Bak10
+UP000201978	1734382	None	viruses	25	0	25	Bacillus phage VMY22
+UP000202223	1675598	None	viruses	50	0	50	Bacillus phage Pavlov
+UP000018896	1236973	BACA3	bacteria	4710	0	4711	Bacillus akibai (strain ATCC 43226 / DSM 21942 / JCM 9157 / 1139)
+UP000221937	1868826	None	viruses	75	0	75	Bacillus phage vB_BtS_BMBtp14
+UP000221605	1868827	None	viruses	47	0	47	Bacillus phage vB_BtS_BMBtp15
+UP000224134	1796993	None	viruses	80	0	80	Bacillus phage Mgbh1
+UP000236014	2070341	None	bacteria	1976	0	1976	Bacillus sp. UFRGS-B20
+UP000037269	47500	ANEMI	bacteria	5648	1	6764	Aneurinibacillus migulanus (Bacillus migulanus)
+UP000006099	1141133	None	viruses	277	0	277	Bacillus phage B4
+UP000317800	2593638	None	viruses	227	0	246	Bacillus phage vB_BmeM-Goe8
+UP000249120	1969380	None	bacteria	7157	0	7159	Bacillus sp. SRB_336
+UP000288674	2500560	None	viruses	106	0	106	Bacillus phage pW4
+UP000185615	1928617	None	bacteria	5021	0	5042	Bacillus sp. MRMR6
+UP000266016	228899	None	bacteria	4015	0	4191	Bacillus asahii
+UP000001904	701257	None	viruses	54	0	54	Bacillus virus 250
+UP000248874	2135743	None	bacteria	5212	0	5217	Bacillus sp. YR335
+UP000001355	315750	BACP2	bacteria	3699	1	3710	Bacillus pumilus (strain SAFR-032)
+UP000258373	2170705	None	viruses	144	0	144	Bacillus phage vB_BceM-HSE3
+UP000092623	1743142	None	bacteria	6340	0	6359	Bacillus sp. FJAT-26390
+UP000011289	1273739	None	viruses	78	0	79	Bacillus virus Andromeda
+UP000302244	2565501	None	viruses	71	0	71	Bacillus phage vB_BtS_B83
+UP000009091	66797	BPSPB	viruses	185	0	185	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)
+UP000001207	10756	BPPH2	viruses	27	2	29	Bacillus phage phi29 (Bacteriophage phi-29)
+UP000201440	1874000	None	viruses	40	0	40	Bacillus phage Aurora
+UP000067625	1441095	None	bacteria	4231	0	4231	Bacillus gobiensis
+UP000226363	1983579	None	viruses	57	0	57	Bacillus phage Negev_SA
+UP000036045	1397	BACCI	bacteria	4949	0	4950	Bacillus circulans
+UP000017661	1308863	None	viruses	272	0	272	Bacillus phage vB_BanS-Tsamsa
+UP000326093	2301661	None	viruses	70	0	70	Bacillus phage BSP7
+UP000015546	1382932	None	viruses	289	0	289	Bacillus phage Troll
+UP000243650	1548213	None	bacteria	3136	0	3140	Bacillus urumqiensis
+UP000193006	199441	None	bacteria	4515	0	4535	Bacillus krulwichiae
+UP000287896	2500559	None	viruses	172	0	172	Bacillus phage pW2
+UP000018890	1236970	None	bacteria	4575	0	4576	Bacillus wakoensis JCM 9140
+UP000002580	12345	BPGA1	viruses	35	0	35	Bacillus phage GA-1 (Bacteriophage GA-1)
+UP000002873	1161901	None	viruses	50	0	50	Bacillus phage PBC1
+UP000264541	2303992	None	bacteria	3964	0	3965	Bacillus saganii
+UP000223243	1735561	None	viruses	58	0	58	Bacillus phage BMBtp1
+UP000009283	345219	None	bacteria	3275	0	3290	Bacillus coagulans 36D1
+UP000241367	2108114	None	viruses	76	0	76	Bacillus phage Anath
+UP000001215	1236573	None	viruses	53	0	53	Bacillus virus BMBtp2
+UP000042335	1476857	None	bacteria	4594	0	4607	Bacillus sp. B-jedd
+UP000037146	1679170	None	bacteria	4559	0	4598	Bacillus loiseleuriae
+UP000222030	1675030	None	viruses	93	0	93	Bacillus phage PBC5
+UP000181936	1547283	None	bacteria	3944	0	3956	Bacillus weihaiensis
+UP000216230	2021690	None	bacteria	5220	0	5220	Bacillus sp. 7586-K
+UP000274079	2315470	None	viruses	43	0	43	Bacillus phage vB_BthP-Goe4
+UP000000744	10753	BPNF	viruses	27	0	27	Bacillus phage Nf (Bacteriophage Nf)
+UP000077881	217031	None	bacteria	4048	0	4990	Bacillus galactosidilyticus
+UP000037205	1581037	None	bacteria	4848	0	4872	Bacillus sp. FJAT-22058
+UP000318521	2597270	None	bacteria	4393	0	4393	Bacillus sp. P16(2019)
+UP000265816	1917180	None	bacteria	4175	0	4175	Bacillus zeae
+UP000009273	1084719	None	viruses	675	0	675	Bacillus virus G
+UP000223102	1675029	None	viruses	251	0	251	Bacillus phage PBC2
+UP000030232	1445810	None	viruses	211	0	211	Bacillus phage Bp8p-C
+UP000222674	2033502	None	bacteria	5011	0	5011	Bacillus sp. AFS040349
+UP000188748	1917019	None	bacteria	4399	0	4399	Bacillus sp. VT-16-64
+UP000225732	1701848	None	viruses	47	0	47	Bacillus phage vB_BtS_BMBtp16
+UP000263904	2094735	None	viruses	120	0	120	Bacillus phage v_B-Bak1
+UP000267430	1674310	None	bacteria	4169	0	4169	Bacillus cavernae
+UP000318125	2593639	None	viruses	240	0	251	Bacillus phage vB_BveM-Goe7
+UP000203057	1643326	None	viruses	67	0	67	Bacillus phage phi4J1
+UP000277520	2041339	None	viruses	228	0	228	Bacillus phage BSP9
+UP000294353	2558359	None	viruses	40	0	45	Bacillus phage PBP180
+UP000017657	1406791	None	viruses	280	0	283	Bacillus phage Spock
+UP000326995	2601660	None	viruses	82	0	82	Bacillus phage 049ML001
+UP000207621	941058	None	viruses	236	0	236	Bacillus phage SP-10
+UP000018877	1131730	None	bacteria	5084	0	5084	Bacillus vireti LMG 21834
+UP000006291	1126949	None	viruses	272	0	272	Bacillus phage B5S
+UP000201588	1796992	None	viruses	177	0	177	Bacillus phage Shbh1
+UP000037077	1679168	None	bacteria	3828	0	3833	Bacillus sp. FJAT-27231
+UP000002368	562970	KYRT2	bacteria	3135	0	3150	Kyrpidia tusciae (strain DSM 2912 / NBRC 15312 / T2) (Bacillus tusciae)
+UP000006691	1002809	SOLSS	bacteria	3812	0	3823	Solibacillus silvestris (strain StLB046) (Bacillus silvestris)
+UP000241941	2072797	None	viruses	51	0	51	Bacillus phage Carmen17
+UP000000594	1392	BACAN	bacteria	5490	3	8025	Bacillus anthracis
+UP000010364	1204533	None	viruses	204	0	204	Bacillus phage phiAGATE
+UP000215137	859143	None	bacteria	4424	0	4427	Bacillus kochii
+UP000221286	1983413	None	viruses	44	0	44	Bacillus phage SerPounce
+UP000050831	1712029	None	bacteria	4458	0	4458	Bacillus sp. FJAT-25509
+UP000000935	545693	BACMQ	bacteria	5606	0	5612	Bacillus megaterium (strain ATCC 12872 / QMB1551)
+UP000032512	285983	None	bacteria	3465	0	3465	Bacillus subterraneus
+UP000004417	161544	None	bacteria	4305	0	4337	Bacillus sp. SG-1
+UP000226236	10683	BPPB1	viruses	311	0	311	Bacillus phage PBS1 (Bacteriophage PBS1)
+UP000246806	1913122	None	viruses	229	0	229	Bacillus phage BCP12
+UP000281964	2419620	None	viruses	75	0	75	Bacillus phage vB_BpsM-61
+UP000012167	1309583	None	viruses	42	0	42	Bacillus phage MG-B1
+UP000180199	1678001	None	bacteria	4336	0	4336	Bacillus sp. MUM 13
+UP000013300	666686	None	bacteria	4384	0	4410	Bacillus sp. 1NLA3E
+UP000274199	2419619	None	viruses	238	0	238	Bacillus phage vB_BcoS-136
+UP000317352	2591398	None	viruses	34	0	34	Bacillus phage Karezi
+UP000027822	574376	None	bacteria	4374	0	4375	Bacillus manliponensis
+UP000011865	1195072	None	viruses	238	0	238	Bacillus phage vB_BceM_Bc431v3
+UP000198778	745820	None	bacteria	3459	0	3464	Bacillus daliensis
+UP000031014	1321606	None	bacteria	4894	0	4894	Bacillus selenatarsenatis SF-1
+UP000222516	2022474	None	viruses	26	0	26	Bacillus phage vB_BveP-Goe6
+UP000258625	1758642	None	bacteria	3615	0	3616	Bacillus sp. V59.32b
+UP000017805	1367477	None	bacteria	5066	0	5066	Bacillus infantis NRRL B-14911
+UP000327065	2601661	None	viruses	81	0	81	Bacillus phage 049ML003
+UP000002413	458639	None	viruses	239	0	246	Bacillus phage 0305phi8-36
+UP000281415	2315627	None	viruses	74	0	74	Bacillus phage Ray17
+UP000036202	1402861	None	bacteria	5042	0	5759	Bacillus filamentosus
+UP000216214	2021693	None	bacteria	5596	0	5597	Bacillus sp. 7884-1
+UP000029278	44252	PAEMA	bacteria	6551	0	6561	Paenibacillus macerans (Bacillus macerans)
+UP000271374	2492960	None	bacteria	4414	0	4414	Bacillus sp. XXST-01
+UP000011861	547228	None	viruses	86	0	86	Bacillus phage PM1
+UP000011288	1273743	None	viruses	78	0	79	Bacillus phage Gemini
+UP000198935	1503961	None	bacteria	5197	0	5199	Bacillus caseinilyticus
+UP000037558	284581	None	bacteria	4402	0	4403	Bacillus koreensis
+UP000028527	1423321	None	bacteria	4050	0	4050	Bacillus sp. SJS
+UP000220277	2033483	None	bacteria	4840	0	4840	Bacillus sp. AFS006103
+UP000001417	226900	BACCR	bacteria	5240	0	5255	Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL B-3711)
+UP000290280	2500810	None	viruses	46	0	46	Bacillus phage DK3
+UP000260494	2283012	None	viruses	54	0	54	Bacillus phage Wes44
+UP000203219	1837830	None	viruses	290	0	292	Bacillus phage SalinJah
+UP000017658	1406792	None	viruses	113	0	113	Bacillus phage Staley
+UP000018014	1262708	None	bacteria	1397	0	1397	Bacillus sp. CAG:988
+UP000243024	1484	HYDSH	bacteria	2254	0	2421	Hydrogenibacillus schlegelii (Bacillus schlegelii)
+UP000223221	1983578	None	viruses	56	0	56	Bacillus phage Carmel_SA
+UP000001544	398511	BACPE	bacteria	4310	0	4335	Bacillus pseudofirmus (strain OF4)
+UP000028561	1486662	None	viruses	290	0	290	Bacillus phage Riley
+UP000031651	98228	BACSX	bacteria	3544	0	3584	Bacillus sp. (strain OxB-1)
+UP000092657	1850362	None	bacteria	5758	0	5786	Bacillus sp. FJAT-27264
+UP000007863	1126950	None	viruses	227	0	227	Bacillus phage BCP78
+UP000254519	1474	SPOPA	bacteria	3142	0	3150	Sporosarcina pasteurii (Bacillus pasteurii)
+UP000310334	2567941	None	bacteria	4971	0	9878	Bacillus sp. DSL-17
+UP000257144	2259171	None	bacteria	4395	0	4395	Bacillus sp. YLB-04
+UP000001917	521098	ALIAD	bacteria	3059	0	3084	Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / JCM 5260 / NBRC 15652 / NCIMB 11725 / NRRL B-14509 / 104-1A) (Bacillus acidocaldarius)
+UP000265711	352858	None	bacteria	4676	0	4680	Bacillus sp. Y1
+UP000001570	224308	BACSU	bacteria	4260	7	4370	Bacillus subtilis (strain 168)
+UP000180019	1678002	None	bacteria	5271	0	5273	Bacillus sp. MUM 116
+UP000253314	273032	None	bacteria	4392	0	4395	Bacillus taeanensis
+UP000078534	152268	None	bacteria	4919	0	4919	Bacillus litoralis
+UP000030832	333138	None	bacteria	4332	0	4333	Bacillus okhensis
+UP000270393	1783501	None	bacteria	3998	0	4034	Bacillus freudenreichii
+UP000234805	2053728	None	bacteria	4299	0	4299	Bacillus sp. V3-13
+UP000287382	2498843	None	viruses	79	0	79	Bacillus phage vB_BthS_BMBphi
+UP000263943	2293325	None	bacteria	4747	0	4749	Bacillus sp. HNG
+UP000274811	2495421	None	bacteria	4048	0	4063	Bacillus sp. HMF5848
+UP000006868	886882	PAEPS	bacteria	5377	0	5387	Paenibacillus polymyxa (strain SC2) (Bacillus polymyxa)
+UP000203261	1792032	None	viruses	317	0	317	Bacillus phage SP-15
+UP000325508	2601653	None	viruses	83	0	84	Bacillus phage 019DV002
+UP000326666	2601664	None	viruses	80	0	81	Bacillus phage 276BB001
+UP000006047	1194641	None	viruses	57	0	57	Bacillus phage BtCS33
+UP000224426	1868598	None	viruses	64	0	64	Bacillus phage PfEFR-4
+UP000465105	2495532	None	viruses	31	0	31	Bacillus virus SRT01hs
+UP000027382	1391188	None	viruses	221	0	221	Bacillus phage CP-51
+UP000050398	218284	None	bacteria	4104	0	4109	Bacillus vietnamensis
+UP000219546	1448271	None	bacteria	4443	0	4445	Bacillus oleivorans
+UP000071057	1476	SPOPS	bacteria	4219	0	4223	Sporosarcina psychrophila (Bacillus psychrophilus)
+UP000033016	1610833	None	viruses	110	0	110	Bacillus phage Stills
+UP000075666	46224	None	bacteria	4209	0	4211	Bacillus sporothermodurans
+UP000095209	1305675	None	bacteria	3530	0	3530	Bacillus solimangrovi
+UP000002559	10724	BPSPP	viruses	97	3	100	Bacillus phage SPP1 (Bacteriophage SPP1)
+UP000203594	1868599	None	viruses	65	0	65	Bacillus phage PfEFR-5
+UP000015093	1296656	None	viruses	220	0	220	Bacillus phage Shanette
+UP000015547	663237	None	viruses	27	0	27	Bacillus phage Wip1
+UP000282892	1193713	None	bacteria	5368	0	5373	Bacillus mesonae
+UP000199159	930152	None	bacteria	4559	0	4561	Bacillus salsus
+UP000323059	2596657	None	viruses	236	0	236	Bacillus phage BC-T25
+UP000274669	2483852	None	viruses	37	0	37	Bacillus phage StevenHerd11
+UP000224684	1983581	None	viruses	61	0	61	Bacillus phage Tavor_SA
+UP000225583	1873341	None	viruses	40	0	40	Bacillus phage Deep-Purple
